@@ -1,0 +1,7 @@
+name: ChunkOptimizer
+version: '0.0.1'
+main: com.github.isaevisa05.chunkoptimizer.ChunkOptimizer
+api-version: '1.21'
+load: STARTUP
+authors: [ LaimCraft, isaevisa05 ]
+website: https://www.LaimCraft.Ru
