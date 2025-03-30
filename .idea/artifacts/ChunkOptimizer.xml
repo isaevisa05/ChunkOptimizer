@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChunkOptimizer">
+    <output-path>$PROJECT_DIR$/../../laimcraft/servers/rpb/plugins</output-path>
+    <root id="archive" name="ChunkOptimizer.jar">
+      <element id="module-output" name="ChunkOptimizer" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
